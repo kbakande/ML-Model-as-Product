@@ -88,4 +88,4 @@ The project uses several Python libraries, including:
  
 
 ## Author
-Kabeer Akande <koakande@gmail.com>
+[Kabeer Akande](https://www.linkedin.com/in/koakande/)
