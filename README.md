@@ -35,7 +35,9 @@ poetry install
 
 ## Usage
 The project provides a Makefile with several commands to facilitate the execution of the pipeline:
+
 * Preprocess Data: Downloads and preprocesses the data from a Google Cloud Storage URL.
+
 ```bash
 make preprocess
 ```
@@ -51,6 +53,7 @@ make train
 ```bash
 make predict
 ```
+
 * Run Tests: Executes the unittest cases.
 
 ```bash
@@ -68,6 +71,7 @@ pytest pytest_mlpipeline.py
 ```bash
 make all
 ```
+
 * Help: Displays available commands and their descriptions.
 
 ```bash
