@@ -23,8 +23,6 @@ ml_pipeline_project/
 │
 └── artifacts/
     └── model/
-        ├── encoder.pkl
-        └── xgb_model.model
 ```
 
 ## Installation
