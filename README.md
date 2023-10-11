@@ -86,3 +86,6 @@ The project uses several Python libraries, including:
 * scikit-learn
 * pytest
  
+
+## Author
+Kabeer Akande <koakande@gmail.com>
