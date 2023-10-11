@@ -6,6 +6,10 @@ The `ml_pipeline_project` is a machine learning project that provides a pipeline
 ```graphql
 ml_pipeline_project/
 │
+├── .gitignore
+├── LICENSE
+├── README.md
+├── mlpipeline_demonstration.ipynb
 ├── Makefile
 │
 ├── src/
@@ -17,7 +21,7 @@ ml_pipeline_project/
 │   └── test_mlpipeline.py  # unittest cases file
 │
 ├── pyproject.toml
-│── poetry.lock
+├── poetry.lock
 │
 └── artifacts/
     └── model/
