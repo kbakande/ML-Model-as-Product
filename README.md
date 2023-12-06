@@ -1,10 +1,10 @@
-# MLPipeline Project
-The `ml_pipeline_project` is a machine learning project that provides a pipeline for preprocessing, training, and predicting using the XGBoost model. The project is structured to facilitate easy setup, training, and prediction using a Makefile.
+# ML-Model-as-Product (MLMaP)
+ML Model as Product (MlMaP) showcases building ML models as a software product, following best practises in MLOps and DevOps. As a proof of concept, the `mlmap_project` provides a pipeline for preprocessing, training, and predicting using the XGBoost model. The project is structured to facilitate easy setup, training, and prediction using a Makefile.
 
 ## Project Structure
 
 ```graphql
-ml_pipeline_project/
+mlmap_project/
 │
 ├── Makefile
 │
